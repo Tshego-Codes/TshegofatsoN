@@ -50,7 +50,7 @@ I'm always looking to learn and innovate in areas like:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tshegofatso-nchabeleng&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tshego-Codes&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
